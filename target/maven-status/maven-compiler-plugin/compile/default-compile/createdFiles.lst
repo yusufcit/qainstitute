@@ -1,0 +1,14 @@
+com\testapp\test\DefaultDriver.class
+com\testapp\test\PropertiesReader.class
+com\testapp\test\SeleniumSettings$1.class
+com\testapp\test\pages\SignInOrRegister.class
+com\testapp\test\DefaultDriver$3.class
+com\testapp\test\DriverFactory.class
+com\testapp\test\DefaultDriver$2.class
+com\testapp\test\DefaultDriver$4.class
+com\testapp\test\SeleniumSettings.class
+com\testapp\test\pages\CurrysLandingPage.class
+com\testapp\test\pages\FrameworkTestBase.class
+com\testapp\test\DefaultDriver$1.class
+com\testapp\test\WaitTime.class
+com\testapp\test\FrameworkException.class

@@ -1,0 +1,16 @@
+{
+    "driverLocation": "chromedriver",
+    "baseUrl": "https://www.currys.ie",
+    "username": "yusuf",
+    "password": "",
+    "loggedInName": "",
+    "interactionTimeout": "30",
+    "selenium.implicitwait": "30",
+    "selenium.interactiontimeout": "30",
+    "selenium.pollinginterval": "1",
+    "selenium.specifictimeout": "50",
+    "xsmall.wait": "1",
+    "small.wait": "2",
+    "medium.wait": "5",
+    "long.wait": "20"
+}

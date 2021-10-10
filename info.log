@@ -1,0 +1,473 @@
+2021-10-09 11:56:54 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 11:56:54 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 11:56:54 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 11:56:54 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 11:56:57 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 11:56:57 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (e86bf1916909e67dc7418243ecad524c)
+2021-10-09 11:56:57 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 11:56:58 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 11:56:58 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 11:56:58 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 11:56:58 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 11:56:58 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 11:56:58 INFO  LoginPage:30 - Logging in....
+2021-10-09 11:56:58 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 11:56:59 INFO  DefaultDriver:62 - 30
+2021-10-09 11:56:59 DEBUG SeleniumSettings:33 - selenium.interactiontimeout = 30
+2021-10-09 11:57:29 INFO  LoginPage:44 - Unable to log into application vvvvvvvvv
+2021-10-09 11:57:29 INFO  LoginPage:45 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: button[onclick*=acceptAll] (tried for 30 second(s) with 500 milliseconds interval)
+2021-10-09 11:57:29 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 11:57:29 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 11:57:29 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 11:57:29 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 11:57:29 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 11:57:30 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 11:59:24 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 11:59:24 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 11:59:24 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 11:59:24 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 11:59:27 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 11:59:27 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (53132384815b0e196f0acbe7f7eb9e08)
+2021-10-09 11:59:27 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 11:59:27 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 11:59:27 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 11:59:27 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 11:59:27 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 11:59:27 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 11:59:27 INFO  LoginPage:30 - Logging in....
+2021-10-09 11:59:27 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 11:59:28 INFO  DefaultDriver:62 - 30
+2021-10-09 11:59:28 DEBUG SeleniumSettings:33 - selenium.interactiontimeout = 30
+2021-10-09 11:59:59 INFO  LoginPage:44 - Unable to log into application vvvvvvvvv
+2021-10-09 11:59:59 INFO  LoginPage:45 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: button[onclick*=acceptAll] (tried for 30 second(s) with 500 milliseconds interval)
+2021-10-09 11:59:59 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 11:59:59 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 11:59:59 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 11:59:59 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 11:59:59 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 12:00:00 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 12:00:49 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 12:00:49 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 12:00:49 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 12:00:49 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 12:00:52 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 12:00:52 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (057623654e3500fb40783dc1e7d3a833)
+2021-10-09 12:00:52 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 12:00:52 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 12:00:52 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 12:00:52 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 12:00:52 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 12:00:52 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 12:00:52 INFO  LoginPage:30 - Logging in....
+2021-10-09 12:00:52 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 12:00:53 INFO  DefaultDriver:62 - 30
+2021-10-09 12:00:53 DEBUG SeleniumSettings:33 - selenium.interactiontimeout = 30
+2021-10-09 12:01:23 INFO  LoginPage:44 - Unable to log into application vvvvvvvvv
+2021-10-09 12:01:23 INFO  LoginPage:45 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: button[onclick*=acceptAll] (tried for 30 second(s) with 500 milliseconds interval)
+2021-10-09 12:01:23 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 12:01:23 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 12:01:23 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 12:01:23 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 12:01:23 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 12:01:24 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 14:17:43 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 14:17:44 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 14:17:44 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 14:17:44 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 14:17:47 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 14:17:47 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (72b6e05fa5741a9fad3a24041bcc25e1)
+2021-10-09 14:17:47 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 14:17:47 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 14:17:47 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 14:17:47 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 14:17:47 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 14:17:47 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 14:17:47 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-09 14:17:47 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-09 14:17:47 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-09 14:17:47 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:17:47 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:17:51 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-09 14:17:51 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:17:51 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:17:52 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:17:52 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:18:23 ERROR DefaultDriver:208 - Element is not click-able : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd : Because of : invalid selector: Unable to locate an element with the xpath expression //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MYUSUF-M5530', ip: '172.25.32.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\myusuf\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52454}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 72b6e05fa5741a9fad3a24041bcc25e1
+*** Element info: {Using=xpath, value=//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd}
+2021-10-09 14:18:23 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:18:23 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 14:18:24 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 14:18:24 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 14:18:24 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 14:18:24 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 14:18:24 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 14:20:53 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 14:20:53 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 14:20:53 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 14:20:53 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 14:20:56 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 14:20:56 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (c2602c2e38bfb17486ea6eb7e1ec0cbd)
+2021-10-09 14:20:56 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 14:20:56 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 14:20:56 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 14:20:56 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 14:20:56 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 14:20:56 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 14:20:56 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-09 14:20:56 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-09 14:20:57 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-09 14:20:57 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:20:57 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:03 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-09 14:21:03 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:03 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:04 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:21:04 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:04 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]
+2021-10-09 14:21:04 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:04 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:05 INFO  DefaultDriver:100 - Entering text faruk@gmail.com onto element By.xpath: //*[@id="input-sEmail"]: 
+2021-10-09 14:21:05 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:21:05 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:06 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:06 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:07 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:21:07 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:07 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[1]/div[2]/label/div
+2021-10-09 14:21:07 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:07 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:08 INFO  DefaultDriver:100 - Entering text abcd1234? onto element By.xpath: //*[@id="input-sPassword"]: 
+2021-10-09 14:21:08 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:21:08 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:08 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:08 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:09 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:21:09 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:21:10 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[3]/button
+2021-10-09 14:21:10 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:21:10 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:21:11 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 14:21:11 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 14:21:11 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 14:21:11 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 14:21:11 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 14:21:12 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 14:25:09 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 14:25:09 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 14:25:09 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 14:25:09 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 14:25:13 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 14:25:13 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (471242d97860d714d9c68fa8f6bcd794)
+2021-10-09 14:25:13 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 14:25:13 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 14:25:13 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 14:25:13 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 14:25:13 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 14:25:13 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 14:25:13 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-09 14:25:13 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-09 14:25:13 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-09 14:25:13 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:13 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:18 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-09 14:25:18 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:18 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:19 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:19 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:19 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]
+2021-10-09 14:25:19 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:19 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:20 INFO  DefaultDriver:100 - Entering text faruk@gmail.com onto element By.xpath: //*[@id="input-sEmail"]: 
+2021-10-09 14:25:21 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:21 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:21 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:21 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:22 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:22 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:22 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[1]/div[2]/label/div
+2021-10-09 14:25:22 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:22 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:23 INFO  DefaultDriver:100 - Entering text abcd1234? onto element By.xpath: //*[@id="input-sPassword"]: 
+2021-10-09 14:25:23 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:23 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:24 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:24 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:25 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 14:25:25 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 14:25:25 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[3]/button
+2021-10-09 14:25:25 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 14:25:25 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 14:25:26 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 14:25:26 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 14:25:26 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 14:25:26 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 14:25:26 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 14:25:27 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 15:15:42 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 15:15:42 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 15:15:42 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 15:15:42 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 15:15:45 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 15:15:45 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (65d8c4373c055a6b4a58a259a6412f0b)
+2021-10-09 15:15:45 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 15:15:45 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 15:15:45 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 15:15:45 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 15:15:45 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 15:15:45 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 15:15:45 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-09 15:15:45 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-09 15:15:45 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-09 15:15:45 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 15:15:45 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 15:15:49 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-09 15:15:49 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 15:15:49 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 15:15:50 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 15:15:50 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 15:16:20 ERROR DefaultDriver:208 - Element is not click-able : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd : Because of : invalid selector: Unable to locate an element with the xpath expression //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MYUSUF-M5530', ip: '172.25.32.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\myusuf\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 65d8c4373c055a6b4a58a259a6412f0b
+*** Element info: {Using=xpath, value=//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd}
+2021-10-09 15:16:20 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 15:16:20 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 15:16:20 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 15:16:20 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 15:16:20 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 15:16:20 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 15:16:21 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 15:40:08 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 15:40:08 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 15:40:08 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 15:40:08 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 15:40:11 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 15:40:11 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (9d167b399fac96e559a67ba6fc780c28)
+2021-10-09 15:40:11 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 15:40:11 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 15:40:11 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 15:40:11 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 15:40:11 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 15:40:11 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 15:40:11 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-09 15:40:11 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-09 15:40:11 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-09 15:40:12 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 15:40:12 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 15:40:16 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-09 15:40:16 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 15:40:16 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 15:40:17 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-09 15:40:17 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-09 15:40:48 ERROR DefaultDriver:208 - Element is not click-able : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd : Because of : invalid selector: Unable to locate an element with the xpath expression //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MYUSUF-M5530', ip: '172.25.32.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\myusuf\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d167b399fac96e559a67ba6fc780c28
+*** Element info: {Using=xpath, value=//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd}
+2021-10-09 15:40:48 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-09 15:40:48 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 15:40:49 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 15:40:49 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 15:40:49 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 15:40:49 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 15:40:49 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-10 08:26:09 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-10 08:26:09 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-10 08:26:09 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-10 08:26:09 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-10 08:26:13 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-10 08:26:13 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (9f456fa4eb14bb518764db625a3ab7d0)
+2021-10-10 08:26:13 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-10 08:26:13 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-10 08:26:13 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-10 08:26:13 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-10 08:26:13 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-10 08:26:13 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-10 08:26:13 INFO  FrameworkTestBase:56 - End of framework before test
+2021-10-10 08:26:14 INFO  GenericTestCases:14 - Starting Currys Login Test
+2021-10-10 08:26:14 INFO  LoginPage:32 - Clicking on accept cookies
+2021-10-10 08:26:14 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 08:26:14 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 08:26:17 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-10 08:26:17 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 08:26:17 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 08:26:18 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 08:26:18 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 08:26:49 ERROR DefaultDriver:208 - Element is not click-able : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd : Because of : invalid selector: Unable to locate an element with the xpath expression //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MYUSUF-M5530', ip: '172.25.32.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\myusuf\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f456fa4eb14bb518764db625a3ab7d0
+*** Element info: {Using=xpath, value=//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd}
+2021-10-10 08:26:49 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 08:26:49 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-10 08:26:50 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-10 08:26:50 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-10 08:26:50 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-10 08:26:50 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-10 08:26:50 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-10 09:04:48 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-10 09:04:48 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-10 09:04:48 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-10 09:04:48 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-10 09:04:51 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-10 09:04:51 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (a0eadf5d2f05a535e5077a6ef3548dcb)
+2021-10-10 09:04:51 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-10 09:04:51 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-10 09:04:51 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-10 09:04:51 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-10 09:04:51 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-10 09:04:51 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-10 09:04:51 INFO  FrameworkTestBase:52 - End of framework before test
+2021-10-10 09:04:52 INFO  LandingPageTest:14 - Starting Currys Login Test
+2021-10-10 09:04:52 INFO  CurrysLandingPage:32 - Clicking on accept cookies
+2021-10-10 09:04:52 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:04:52 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:04:55 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-10 09:04:55 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:04:55 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:04:56 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:04:56 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:05:26 ERROR DefaultDriver:208 - Element is not click-able : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd : Because of : invalid selector: Unable to locate an element with the xpath expression //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MYUSUF-M5530', ip: '172.25.32.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\myusuf\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50935}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: none, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a0eadf5d2f05a535e5077a6ef3548dcb
+*** Element info: {Using=xpath, value=//*[@id="header"]/div/div/div/div[3]/a[4]/span[2]dd}
+2021-10-10 09:05:26 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:05:26 INFO  FrameworkTestBase:57 - Start of framework after test
+2021-10-10 09:05:27 INFO  FrameworkTestBase:60 - tearing down Test Case
+2021-10-10 09:05:27 INFO  FrameworkTestBase:64 - End of framework after test
+2021-10-10 09:05:27 INFO  FrameworkTestBase:69 - Start of framework After suite
+2021-10-10 09:05:27 INFO  FrameworkTestBase:72 - Tearing down framework
+2021-10-10 09:05:27 INFO  FrameworkTestBase:77 - End of framework before suite
+2021-10-10 09:10:15 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-10 09:10:15 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-10 09:10:15 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-10 09:10:15 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-10 09:10:18 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-10 09:10:18 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (489db9917baf5f683906504df328efe8)
+2021-10-10 09:10:18 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-10 09:10:18 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-10 09:10:18 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-10 09:10:18 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-10 09:10:18 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-10 09:10:18 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-10 09:10:19 INFO  FrameworkTestBase:52 - End of framework before test
+2021-10-10 09:10:19 INFO  LandingPageTest:14 - Starting Currys Login Test
+2021-10-10 09:10:19 INFO  CurrysLandingPage:32 - Clicking on accept cookies
+2021-10-10 09:10:19 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:19 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:28 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-10 09:10:28 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:28 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:29 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:29 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:29 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]
+2021-10-10 09:10:29 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:29 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:30 INFO  FrameworkTestBase:21 - Entering Email Address to register
+2021-10-10 09:10:30 INFO  DefaultDriver:100 - Entering text faruk@gmail.com onto element By.xpath: //*[@id="input-sEmail"]: 
+2021-10-10 09:10:30 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:30 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:32 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:32 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:33 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:33 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:33 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[1]/div[2]/label/div
+2021-10-10 09:10:33 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:33 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:34 INFO  DefaultDriver:100 - Entering text abcd1234? onto element By.xpath: //*[@id="input-sPassword"]: 
+2021-10-10 09:10:34 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:34 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:34 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:34 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:35 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 09:10:35 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 09:10:36 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[3]/button
+2021-10-10 09:10:36 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 09:10:36 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 09:10:37 INFO  FrameworkTestBase:57 - Start of framework after test
+2021-10-10 09:10:37 INFO  FrameworkTestBase:60 - tearing down Test Case
+2021-10-10 09:10:37 INFO  FrameworkTestBase:64 - End of framework after test
+2021-10-10 09:10:37 INFO  FrameworkTestBase:69 - Start of framework After suite
+2021-10-10 09:10:37 INFO  FrameworkTestBase:72 - Tearing down framework
+2021-10-10 09:10:38 INFO  FrameworkTestBase:77 - End of framework before suite
+2021-10-10 10:09:52 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-10 10:09:52 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-10 10:09:52 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-10 10:09:52 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-10 10:09:55 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-10 10:09:55 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (fd85b7f23e0e0df3ff3049d58b203b78)
+2021-10-10 10:09:55 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-10 10:09:55 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-10 10:09:55 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-10 10:09:55 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-10 10:09:55 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-10 10:09:55 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-10 10:09:55 INFO  FrameworkTestBase:52 - End of framework before test
+2021-10-10 10:09:56 INFO  LandingPageTest:14 - Starting Currys Login Test
+2021-10-10 10:09:56 INFO  CurrysLandingPage:32 - Clicking on accept cookies
+2021-10-10 10:09:56 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:09:56 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:01 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id='onetrust-accept-btn-handler']
+2021-10-10 10:10:01 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:01 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:02 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:10:02 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:03 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="header"]/div/div/div/div[3]/a[4]/span[2]
+2021-10-10 10:10:03 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:03 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:04 INFO  FrameworkTestBase:21 - Entering Email Address to register
+2021-10-10 10:10:04 INFO  DefaultDriver:100 - Entering text faruk@gmail.com onto element By.xpath: //*[@id="input-sEmail"]: 
+2021-10-10 10:10:04 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:10:04 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:04 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:04 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:05 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:10:05 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:05 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[1]/div[2]/label/div
+2021-10-10 10:10:05 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:05 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:06 INFO  DefaultDriver:100 - Entering text abcd1234? onto element By.xpath: //*[@id="input-sPassword"]: 
+2021-10-10 10:10:06 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:10:06 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:07 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:07 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:08 DEBUG SeleniumSettings:24 - selenium.interactiontimeout = 30
+2021-10-10 10:10:08 DEBUG SeleniumSettings:40 - selenium.pollinginterval = 1
+2021-10-10 10:10:08 INFO  DefaultDriver:195 - Clicked on element : By.xpath: //*[@id="content"]/div[2]/div/div/form/div[3]/button
+2021-10-10 10:10:08 INFO  SeleniumSettings:17 - selenium.implicitwait = 30
+2021-10-10 10:10:08 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-10 10:10:09 INFO  FrameworkTestBase:57 - Start of framework after test
+2021-10-10 10:10:09 INFO  FrameworkTestBase:60 - tearing down Test Case
+2021-10-10 10:10:09 INFO  FrameworkTestBase:64 - End of framework after test
+2021-10-10 10:10:09 INFO  FrameworkTestBase:69 - Start of framework After suite
+2021-10-10 10:10:09 INFO  FrameworkTestBase:72 - Tearing down framework
+2021-10-10 10:10:10 INFO  FrameworkTestBase:77 - End of framework before suite

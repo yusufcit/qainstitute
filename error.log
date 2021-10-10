@@ -1,0 +1,48 @@
+2021-10-09 11:39:30 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 11:39:30 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 11:39:30 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 11:39:30 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 11:39:33 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 11:39:33 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (d6e5ded9925b90aab11da1090d90ca7c)
+2021-10-09 11:39:33 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 11:39:33 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 11:39:33 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 11:39:33 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 11:39:33 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 11:39:33 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 11:39:33 INFO  LoginPage:30 - Logging in....
+2021-10-09 11:39:33 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 11:39:34 INFO  DefaultDriver:62 - 30
+2021-10-09 11:39:34 DEBUG SeleniumSettings:33 - selenium.interactiontimeout = 30
+2021-10-09 11:40:05 INFO  LoginPage:44 - Unable to log into application vvvvvvvvv
+2021-10-09 11:40:05 INFO  LoginPage:45 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: button[onclick*=acceptAll] (tried for 30 second(s) with 500 milliseconds interval)
+2021-10-09 11:40:05 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 11:40:05 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 11:40:05 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 11:40:05 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 11:40:05 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 11:40:05 INFO  FrameworkTestBase:81 - End of framework before suite
+2021-10-09 11:41:03 INFO  FrameworkTestBase:25 - Start of framework before suite
+2021-10-09 11:41:03 INFO  FrameworkTestBase:28 - Setting up environment properties reader
+2021-10-09 11:41:03 INFO  FrameworkTestBase:32 - Getting driver from DriverFactory
+2021-10-09 11:41:03 DEBUG DriverFactory:30 - Creating local chrome browser instance
+2021-10-09 11:41:06 DEBUG DriverFactory:50 - Local chrome instance created
+2021-10-09 11:41:06 INFO  DefaultDriver:37 - Driver object is ChromeDriver: chrome on WINDOWS (7e6ef49c2db04809bdc230095276b7cf)
+2021-10-09 11:41:06 INFO  DefaultDriver:41 - maximizing window ... 
+2021-10-09 11:41:06 INFO  DefaultDriver:43 - Window dimensions are (1552, 840)
+2021-10-09 11:41:06 INFO  FrameworkTestBase:40 - End of framework before suite
+2021-10-09 11:41:06 INFO  FrameworkTestBase:45 - Start of framework before test
+2021-10-09 11:41:06 INFO  FrameworkTestBase:47 - Setting up Test Case
+2021-10-09 11:41:06 INFO  DefaultDriver:47 - Navigating to https://www.currys.ie
+2021-10-09 11:41:06 INFO  LoginPage:30 - Logging in....
+2021-10-09 11:41:06 INFO  DefaultDriver:86 - Wait for 1 seconds...
+2021-10-09 11:41:07 INFO  DefaultDriver:62 - 30
+2021-10-09 11:41:07 DEBUG SeleniumSettings:33 - selenium.interactiontimeout = 30
+2021-10-09 11:41:37 INFO  LoginPage:44 - Unable to log into application vvvvvvvvv
+2021-10-09 11:41:37 INFO  LoginPage:45 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: button[onclick*=acceptAll] (tried for 30 second(s) with 500 milliseconds interval)
+2021-10-09 11:41:37 INFO  FrameworkTestBase:61 - Start of framework after test
+2021-10-09 11:41:37 INFO  FrameworkTestBase:64 - tearing down Test Case
+2021-10-09 11:41:37 INFO  FrameworkTestBase:68 - End of framework after test
+2021-10-09 11:41:37 INFO  FrameworkTestBase:73 - Start of framework After suite
+2021-10-09 11:41:37 INFO  FrameworkTestBase:76 - Tearing down framework
+2021-10-09 11:41:38 INFO  FrameworkTestBase:81 - End of framework before suite

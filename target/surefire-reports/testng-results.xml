@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="13711" started-at="2021-10-10T10:09:55 BST" finished-at="2021-10-10T10:10:09 BST">
+    <groups>
+    </groups>
+    <test name="WebTests" duration-ms="13711" started-at="2021-10-10T10:09:55 BST" finished-at="2021-10-10T10:10:09 BST">
+      <class name="com.testapp.test.LandingPageTest">
+        <test-method status="PASS" signature="frameworkBeforeSuite(org.testng.ITestContext)[pri:0, instance:com.testapp.test.LandingPageTest@35d019a3]" name="frameworkBeforeSuite" is-config="true" duration-ms="3229" started-at="2021-10-10T10:09:52 BST" finished-at="2021-10-10T10:09:55 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f9d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameworkBeforeSuite -->
+        <test-method status="PASS" signature="frameworkBeforeTest(org.testng.ITestContext)[pri:0, instance:com.testapp.test.LandingPageTest@35d019a3]" name="frameworkBeforeTest" is-config="true" duration-ms="37" started-at="2021-10-10T10:09:55 BST" finished-at="2021-10-10T10:09:55 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f9d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameworkBeforeTest -->
+        <test-method status="PASS" signature="CurrysLoginTest()[pri:0, instance:com.testapp.test.LandingPageTest@35d019a3]" name="CurrysLoginTest" duration-ms="13337" started-at="2021-10-10T10:09:56 BST" finished-at="2021-10-10T10:10:09 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CurrysLoginTest -->
+        <test-method status="PASS" signature="frameworkAfterTest(org.testng.ITestContext)[pri:0, instance:com.testapp.test.LandingPageTest@35d019a3]" name="frameworkAfterTest" is-config="true" duration-ms="203" started-at="2021-10-10T10:10:09 BST" finished-at="2021-10-10T10:10:09 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f9d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameworkAfterTest -->
+        <test-method status="PASS" signature="frameworkAfterSuite(org.testng.ITestContext)[pri:0, instance:com.testapp.test.LandingPageTest@35d019a3]" name="frameworkAfterSuite" is-config="true" duration-ms="703" started-at="2021-10-10T10:10:09 BST" finished-at="2021-10-10T10:10:10 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@239b0f9d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- frameworkAfterSuite -->
+      </class> <!-- com.testapp.test.LandingPageTest -->
+    </test> <!-- WebTests -->
+  </suite> <!-- Suite1 -->
+</testng-results>
